@@ -1,0 +1,1 @@
+console.log("Initializing Kalith Project V1");
